@@ -1,6 +1,8 @@
 # Awesome Auto Complete
 An autocomplete app to search countries
 
+![Auto-complete](https://github.com/lohith511/auto-complete/blob/master/gifs/AutoComplete.gif)
+
 ###  Technologies
 - Java 8
 - Spring boot 1.5.3
