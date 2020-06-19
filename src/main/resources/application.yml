@@ -1,0 +1,4 @@
+autocomplete:
+  maxSize : 20
+
+server.port: 8080

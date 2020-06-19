@@ -1,0 +1,4 @@
+auto-complete:
+  image: lohith511/auto-complete:latest
+  ports:
+    - "8080:8080"
